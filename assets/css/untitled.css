@@ -1,0 +1,13 @@
+#vid {
+  width: 100%;
+  height: 750px;
+}
+
+header.masthead {
+  text-align: center;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: 0%;
+}
+
